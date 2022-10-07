@@ -1,0 +1,28 @@
+Sistema Desktop -> Sistemas desktop são sistemas autônomos que podem ser instalados no computador.
+Como exemplo, temos o Microsoft Word, Microsoft Excel, Anti-vírus e jogos.
+
+Sistema Web -> Sistemas baseados em tecnologia web, podendo ser utilizados remotamente através de qualquer
+ navegador de internet.
+
+aplicações móveis -> é um software desenvolvido para ser instalado em smartphones e/ou tablets.
+
+UX Design (User Experience) -> é o processo que visa melhorar a satisfação do usuário com um produto ou serviço,
+ melhorando a usabilidade, a acessibilidade e até mesmo a satisfação proporcionada na interação.
+
+UI Design (User Interface) -> é o profissional responsável em criar o que o usuário irá ver e utilizar o produto.
+
+Modelo Cliente-Servidor -> é uma estrutura de aplicação que distribui as tarefas e cargas de trabalho entre os fornecedores
+ de um recurso ou serviço, designados como servidores, e os requerentes dos serviços, designados como clientes.
+
+API -> Acrônimo de Application Programming Interface (interface de programação de aplicativos), um intermediário
+ de software que permite que dois aplicativos conversem entre si.
+
+Nuvem Pública -> nuvem são sistemas de armazenamento de dados disponibilizados via internet, em vez de servidores físicos tradicionais. 
+
+Profissional de Cloud Computing -> é responsável pela infraestrutura de nuvem oferecida aos clientes. Mais do que desenhar sistemas
+ ou ambientes de TI, ele escolhe as tecnologias que serão usadas, quais operadores são mais interessantes, como as peças vão ser integradas e, no fim, cuida do que foi construído.
+
+
+
+
+
