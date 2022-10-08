@@ -1,0 +1,8 @@
+- A linguagem Java é baseada nas linguagens C e C++.
+- O código originado da compilação de programas java é denominado de BYTECODE.
+- A linguagem se popularizou pelo termo "Write Once", Run Anywhere, 
+que enaltece a interoperabilidade da plataforma java.
+ - O desenvolvedor que liderou o projeto para criação da linguagem java, 
+chama-se James Gosling.
+
+- 
