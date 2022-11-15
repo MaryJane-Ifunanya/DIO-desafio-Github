@@ -1,6 +1,3 @@
-package EstruturaDeRep.src;
-
-import javax.swing.event.SwingPropertyChangeSupport;
 
 public class arrays {
     public static void main(String[] args){
